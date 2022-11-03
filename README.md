@@ -4,7 +4,7 @@ I'm Kevin,
 - I love using [vim](https://www.vim.org/) 👍
 - My most used languages are TypeScript and Go
 - Golang for backend 💪
-- React for frontent 😁
+- React for frontend 😁
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliao852&hide=html&&langs_count=6)
 
