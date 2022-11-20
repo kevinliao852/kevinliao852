@@ -7,6 +7,7 @@ I'm Kevin,
 - React for frontend 😁
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliao852&hide=html&&langs_count=6)
+![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=kevinliao852&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 <!--
 **kevinliao852/kevinliao852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
