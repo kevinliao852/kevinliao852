@@ -6,7 +6,13 @@ I'm Kevin,
 - Golang for backend 💪
 - React for frontend 😁
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliao852&hide=html,css&&langs_count=6)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliao852&hide=html,css&&langs_count=6"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,ts,react,redux,git,kubernetes,docker,redis,postgres,fastapi,vim&perline=12" />
+  </a>
+</div>
+
 <!--
 ![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=kevinliao852&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 -->
