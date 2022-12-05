@@ -9,7 +9,7 @@ I'm Kevin,
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliao852&hide=html,css&&langs_count=6"/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,ts,react,redux,git,kubernetes,docker,redis,postgres,fastapi,vim,aws&perline=13" />
+    <img src="https://skillicons.dev/icons?i=go,python,ts,react,redux,git,kubernetes,docker,redis,postgres,fastapi,vim,aws,firebase,graphql,neovim,nodejs,bash&perline=20" />
   </a>
 </div>
 
