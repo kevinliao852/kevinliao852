@@ -9,14 +9,15 @@ I'm Kevin,
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliao852&hide=html,css&&langs_count=6"/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,ts,react,redux,git,kubernetes,docker,redis,postgres,fastapi,vim,aws,firebase,graphql,neovim,nodejs,bash&perline=20" />
+    <img src="https://skillicons.dev/icons?i=go,python,ts,react,rust,solidity,kubernetes,docker,redis,postgres,fastapi,vim,aws,lua,graphql,neovim,nodejs,bash&perline=20" />
   </a>
 </div>
 
 <!--
 ![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=kevinliao852&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 -->
-![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kevinliao852&theme=tokyo-night)
+
+![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinliao852&theme=github-compact)
 <!--
 **kevinliao852/kevinliao852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
