@@ -7,7 +7,7 @@ I'm Kevin,
 - React for frontend 😁
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliao852&hide=html,css&&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliao852&hide=html,css&&langs_count=7"/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,python,ts,react,rust,solidity,kubernetes,docker,redis,postgres,fastapi,vim,aws,lua,graphql,neovim,nodejs,bash&perline=20" />
   </a>
